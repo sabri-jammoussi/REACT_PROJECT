@@ -1,0 +1,181 @@
+{
+  "pizza": [
+    {
+      "id": 1,
+      "nom": "Margherita",
+      "prix": "13 dt ",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fmargherita.webp?alt=media&token=84e8e400-c757-4f67-8d17-3fe316e1522b",
+      "def": "Tomate,Mozzarella"
+    },
+    {
+      "nom": "Napoletana",
+      "prix": "15 dt",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fnapolitana.jpg?alt=media&token=7b976e0f-c384-4873-ab67-2fe5399e189e",
+      "def": "Tomate , mozzarella , anchois",
+      "id": 2
+    },
+    {
+      "nom": "Tonno",
+      "prix": "18 dt",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Ftt.jpg?alt=media&token=2fa26eee-ec78-485a-bc1a-c4027d07eee6",
+      "def": "Tomate , mozzarella , thon ",
+      "id": 3
+    },
+    {
+      "nom": "Vegetariana",
+      "prix": "17 dt ",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fver.jpeg?alt=media&token=ccd1c46a-fd51-4a0f-85ec-d89faa2602de",
+      "def": "Tomate , mozzarella , aubergines , courgettes , épinard , poivron , artichauts ",
+      "id": 4
+    },
+    {
+      "nom": "Venziana",
+      "prix": "18 dt ",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fvenz.jpg?alt=media&token=2cdfe0c5-7abf-49cf-adfd-c33833a8ab88",
+      "def": "Tomate , mozzarella , champignon , jambon de dinde ",
+      "id": 5
+    },
+    {
+      "nom": "Mexicana",
+      "prix": "19 dt ",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fpizza-mexicana.jpg?alt=media&token=b49f6790-3fb7-4ce1-9026-6655d3df2816",
+      "def": "Tomate , viande hachée , poivron , ognion ",
+      "id": 6
+    },
+    {
+      "nom": "Parmizzola",
+      "prix": "19 dt ",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fperrr.avif?alt=media&token=795b0a28-4228-41e0-aa59-6662e06e338b",
+      "def": "Tomate , mozzarella , aubergines , roquefort , tomamte fraiche , parmesan ",
+      "id": 7
+    },
+    {
+      "nom": "Pescatore",
+      "prix": "31,000 DT",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Ffruit.jpg?alt=media&token=0d483b5c-f875-4a2d-8cd1-c5358b821d10",
+      "def": "Tomate, mozzarella, fruits de mer, thon",
+      "id": 8
+    },
+    {
+      "nom": "Tutti Carne",
+      "prix": "25,500 DT",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Ftout.jpg?alt=media&token=4129f3c1-5d03-4100-94cf-3cc60a912a95",
+      "def": "Tomate, mozzarella, viande hachée, jambon, chorizo",
+      "id": 9
+    }
+  ],
+  "sandwich": [
+    {
+      "nom": "Ciabatta Crevettes Panées aux Amandes",
+      "prix": "14,900 DT",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fciabata.avif?alt=media&token=c84b6afb-bcfb-45ca-89ab-bcc0b82c1152",
+      "id": 1
+    },
+    {
+      "nom": "Ciabatta Poulet Farci au Gruyère",
+      "prix": "11,900 DT",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fciabata.avif?alt=media&token=d225f9a5-6d91-48e5-bbfe-585499ef0053",
+      "id": 2
+    },
+    {
+      "nom": "Ciabatta Emincé de Bœuf",
+      "prix": "10,900 DT",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Feminc%C3%A9.avif?alt=media&token=176bd245-f6a9-44e6-9ae7-c7f2956b1a9f",
+      "id": 3
+    },
+    {
+      "nom": "Ciabatta Kebab Bœuf",
+      "prix": "10,500 DT",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fkebab.avif?alt=media&token=64e1b1ad-bb18-4d23-aad0-4922055f6409",
+      "id": 4
+    },
+    {
+      "nom": "Ciabatta Poulet Pané",
+      "prix": "9,900 DT",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fpoulet%20pann%C3%A9e.avif?alt=media&token=750ce8e9-2f67-457b-87c5-aeee6b34baa2",
+      "id": 5
+    },
+    {
+      "nom": "Ciabatta Poulet Grillé",
+      "prix": "9,800 DT",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fpoulet%20grill%C3%A9.avif?alt=media&token=dc1bc5c3-9157-49bb-a1a5-2584328548d1",
+      "id": 6
+    },
+    {
+      "nom": "Ciabatta Thon",
+      "prix": "9,800 DT",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fthonn.avif?alt=media&token=3dfcdb4f-6bd8-43d0-8bae-d07328c8e78a",
+      "id": 7
+    }
+  ],
+  "supplement": [
+    {
+      "nom": "Supplément Frites Crunchy",
+      "prix": "2,000 DT",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Ffrit.jpg?alt=media&token=3569e568-647b-4ba2-90a9-79983726bf46",
+      "id": 1
+    },
+    {
+      "nom": "Supplément Cheddar",
+      "prix": "2,500 DT",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fcheddar.webp?alt=media&token=3d8b6b92-be65-4898-998d-80fa55c4a883",
+      "id": 2
+    },
+    {
+      "nom": "Supplément Gruyère",
+      "prix": "2,500 DT",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fgruy%C3%A9re.jpg?alt=media&token=ead25fe1-c541-467e-abe2-d62b3b692f20",
+      "id": 3
+    },
+    {
+      "nom": "Supplément Slice",
+      "prix": "1,500 DT",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fsuppfrom.jpg?alt=media&token=522ed0d8-7577-42be-a241-36c9d5cdd5c0",
+      "id": 4
+    },
+    {
+      "nom": "Supplément Raclette",
+      "prix": "2,500 DT",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fraclette.jpg?alt=media&token=ff5ce98a-3450-4bfd-8e10-39feb8a58071",
+      "id": 5
+    },
+    {
+      "nom": "Supplément Jambon",
+      "prix": "1,000 DT",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fjambon.png?alt=media&token=c4a4f1d0-51d0-48d5-889a-c6e248ad81c2",
+      "id": 6
+    },
+    {
+      "nom": "Supplément Mozzarella",
+      "prix": "1,500 DT",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fmozzarella.jpg?alt=media&token=73411ea3-c4e2-4912-a572-1cca5728746b",
+      "id": 7
+    },
+    {
+      "nom": "Supplément Bacon",
+      "prix": "2,000 DT",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fbacon.jpg?alt=media&token=8d3a46ac-8c9e-4c72-8640-0c2fe4a8dff2",
+      "id": 8
+    }
+  ],
+  "boisson": [
+    {
+      "id": 3,
+      "nom": "Boga Limqq",
+      "prix": "2,200 DT",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fundefined?alt=media&token=00225ba5-713f-43ff-9af5-bd1e9277da56"
+    },
+    {
+      "nom": "Boga Light ",
+      "prix": "2,200 DT",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fbbbbbbbb.jpg?alt=media&token=3c467333-8933-4bbc-92d1-ce70cd8ab29a",
+      "id": 4
+    },
+    {
+      "nom": "Boga cidre",
+      "prix": "2,200 DT",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/reaactproject2.appspot.com/o/files%2Fazer.jpg?alt=media&token=0cc7c087-ba0d-458e-8b0c-13e08206521f",
+      "id": 5
+    }
+  ]
+}
